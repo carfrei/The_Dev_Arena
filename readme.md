@@ -2,10 +2,10 @@
 
 **Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
-Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 19 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 20 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **14 Proyectos Completados** ✅
+- **15 Proyectos Completados** ✅
 - **3 Proyectos en Desarrollo** 🚧
 - **2 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
@@ -23,12 +23,13 @@ Cada proyecto incluye:
 
 **Acceso rápido por categoría:**
 - **E-commerce:** [01](./01_the_nana_store/), [14](./14_imprendi_soap/)
-- **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/)
+- **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/), [20](./20_pharmacy_management_system/)
 - **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/)
 - **Blockchain:** [08](./08_echodao/)
 - **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/)
 - **Mobile:** [07](./07_drtarot/), [17](./17_pocketcheck/)
 - **EdTech:** [09](./09_edtech_multiidiomas/), [10](./10_edtech_srs_engine/)
+- **Healthcare:** [20](./20_pharmacy_management_system/)
 
 ---
 
@@ -308,6 +309,25 @@ Juego Tetris clásico con estética Dracula tema oscuro.
 
 ---
 
+### 20. [PharmaCare ERP - Sistema de Gestión Farmacéutica](./20_pharmacy_management_system/) 💊
+
+Mockup funcional e interactivo de un sistema ERP completo para farmacias white-label.
+
+- **Stack:** HTML5, CSS3, JavaScript vanilla
+- 🔗 **[Demo en Vivo](https://pharmacy-management-system-gvrc.onrender.com)**
+- ✅ Dashboard gerencial con KPIs
+- ✅ Gestión de inventario con alertas de stock
+- ✅ Punto de Venta (POS) multi-caja
+- ✅ Base de datos de clientes
+- ✅ Módulo de compras a proveedores
+- ✅ Reportes gerenciales completos
+- ✅ Configuración de usuarios y roles
+- ✅ Validación de cédulas/RUC Ecuador
+
+[Ver detalles →](./20_pharmacy_management_system/readme.md)
+
+---
+
 ## 📊 Resumen de Tecnologías
 
 ### Frontend
@@ -348,15 +368,16 @@ Juego Tetris clásico con estética Dracula tema oscuro.
 
 ## 🎯 Áreas de Especialización
 
-| Área | Proyectos | Expertise |
-|------|-----------|----------|
-| **E-commerce** | The Nana Store, Imprendi Soap, Menu Medianoche | Multi-pasarelas, localización, inventario |
-| **SaaS** | Agendador Citas, ServiceFlow, EdTech | Full-stack, escalabilidad, seguridad |
-| **Blockchain** | EchoDAO | Smart Contracts, Tokenomics, DAO |
-| **Fintech** | CrediConfia, PocketCheck | Cálculos precisos, seguridad, compliance |
-| **Gaming** | BLOODLINE, Tetris | Game loops, physics, canvas rendering |
-| **Mobile** | DrTarot, PocketCheck (React Native) | iOS/Android, sincronización |
-| **Design & UX** | Todos | Responsivo, accesibilidad, paletas coherentes |
+| Área            | Proyectos                                        | Expertise                                     |
+| --------------- | ------------------------------------------------ | --------------------------------------------- |
+| **E-commerce**  | The Nana Store, Imprendi Soap, Menu Medianoche   | Multi-pasarelas, localización, inventario     |
+| **SaaS**        | Agendador Citas, ServiceFlow, EdTech, PharmaCare | Full-stack, escalabilidad, seguridad          |
+| **Blockchain**  | EchoDAO                                          | Smart Contracts, Tokenomics, DAO              |
+| **Fintech**     | CrediConfia, PocketCheck                         | Cálculos precisos, seguridad, compliance      |
+| **Healthcare**  | PharmaCare ERP                                   | ERP systems, inventory management, compliance |
+| **Gaming**      | BLOODLINE, Tetris                                | Game loops, physics, canvas rendering         |
+| **Mobile**      | DrTarot, PocketCheck (React Native)              | iOS/Android, sincronización                   |
+| **Design & UX** | Todos                                            | Responsivo, accesibilidad, paletas coherentes |
 ---
 
 ## 📞 Contacto
@@ -367,5 +388,5 @@ Juego Tetris clásico con estética Dracula tema oscuro.
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 19
+**Total Proyectos:** 20
 **Líneas de Código:** 100K+
