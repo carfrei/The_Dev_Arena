@@ -41,7 +41,19 @@ echodao/
 ├── design/            # Activos creativos y UX
 └── scripts/           # Herramientas de despliegue
 ```
+## 📸 Demostración Visual
 
+### Pantalla Principal
+![Main](./screenshots/main.png)
+*Interfaz principal con catálogo de artistas y tracks disponibles.*
+
+### Perfil de Artista
+![Artista](./screenshots/artist.png)
+*Página de artista con biografía, estadísticas de reproducciones y regalías.*
+
+### Billetera y Pagos
+![Wallet](./screenshots/wallet.png)
+*Gestión de billetera Solana, visualización de regalías y retiros de tokens CREA.*
 ## 📊 Habilidades Demostradas
 
 - ⛓️ Desarrollo Blockchain (Solana)

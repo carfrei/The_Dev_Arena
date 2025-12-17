@@ -24,7 +24,17 @@ Juego de estrategia con estética gótica-industrial que combina la opulencia g�
 | **Materiales** | Hierro forjado, latón, cobre envejecido, terciopelo |
 | **Paleta Base** | #1C1C1C (fondo), #EBEBEB (texto), #B22222 (acción) |
 
-## 🛠️ Stack Tecnológico
+## � Demostración Visual
+
+### Pantalla Principal del Juego
+![Juego Principal](./screenshots/main_game.png)
+*Interfaz de combate con UI steampunk, indicadores de salud y recursos de facción.*
+
+### Ciudad / Exploración
+![Ciudad](./screenshots/city.png)
+*Ambiente gótico-industrial donde se desarrolla la aventura, NPC y puntos de interés.*
+
+## �🛠️ Stack Tecnológico
 
 | Componente | Tecnología |
 |-----------|-----------|

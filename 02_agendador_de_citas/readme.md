@@ -24,7 +24,33 @@ Módulo base, escalable y listo para reventa, diseñado para digitalizar y autom
 | **Base de Datos** | PostgreSQL / MongoDB |
 | **Manejo de Tiempo** | Luxon / Moment.js |
 
-## 🗺️ Roadmap
+## � Demostración Visual
+
+### Dashboard Administrativo
+![Dashboard Admin](./screenshots/dashboard_admin.png)
+*Panel de control para administradores: gestión de servicios, horarios y citas.*
+
+### Gestión de Servicios
+![Servicios Admin](./screenshots/servicios_admin.png)
+*Interfaz para crear y editar servicios con duración y precios.*
+
+### Configuración de Horarios
+![Horarios Admin](./screenshots/horarios_admin.png)
+*Gestión de horarios de trabajo por día de la semana.*
+
+### Reserva de Citas - Paso 1: Seleccionar Servicio
+![Formulario](./screenshots/formulario.png)
+*Primera etapa: elección del servicio a reservar.*
+
+### Reserva de Citas - Paso 2: Seleccionar Fecha
+![Selector Fecha](./screenshots/selector%20fecha.png)
+*Segunda etapa: selección de fecha disponible con calendario interactivo.*
+
+### Listado de Citas
+![Citas](./screenshots/citas.png)
+*Visualización de todas las citas confirmadas con detalles del cliente y servicio.*
+
+## �🗺️ Roadmap
 
 1. Estructura del Proyecto - `/backend` y `/frontend`
 2. Implementación del Core - Lógica de cálculo de franjas

@@ -40,7 +40,13 @@ Reimaginación moderna del clásico Tetris con paleta de colores oficial Dracula
 - **Tipografía:** Legible en todos los tamaños
 - **Responsivo:** Adaptado a múltiples pantallas
 
-## 📊 Habilidades Demostradas
+## � Demostración Visual
+
+### Juego en Acción
+![Main](./screenshots/main.png)
+*Pantalla principal del juego con piezas cayendo, score actual y próximas piezas.*
+
+## �📊 Habilidades Demostradas
 
 - 🎮 Desarrollo de juegos
 - 🎨 Canvas graphics

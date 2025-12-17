@@ -40,7 +40,25 @@ Sitio web corporativo con sistema multiidioma (ES/EN/DE) e implementación de pr
 - Análisis DevOps Completo
 - Refactorización de Código
 
-## 📊 Habilidades Demostradas
+## � Demostración Visual
+
+### Splash / Inicio
+![Splash](./screenshots/splash.png)
+*Pantalla de introducción con branding corporativo.*
+
+### Selector de Idioma
+![Selector Idioma](./screenshots/selector_idioma.png)
+*Interfaz para seleccionar idioma (Español, Inglés, Alemán).*
+
+### Landing Page
+![Landing](./screenshots/landing.png)
+*Página principal con presentación de servicios y propuesta de valor.*
+
+### Formulario de Contacto
+![Formulario](./screenshots/formulario.png)
+*Formulario de consulta con validación y envío seguro de datos.*
+
+## �📊 Habilidades Demostradas
 
 - 🔐 Security Auditing
 - 🚀 DevOps & Infrastructure

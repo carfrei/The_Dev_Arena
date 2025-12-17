@@ -33,7 +33,33 @@ CrediConfia es una plataforma fintech que permite a usuarios colombianos solicit
 - **Plazos:** 7, 15 o 30 días
 - **Descuento PPT:** 10% (primeros 10 días)
 
-## 📊 Habilidades Demostradas
+## � Demostración Visual
+
+### Landing Page Principal
+![Landing 1](./screenshots/landing_1.png)
+*Presentación inicial con propuesta de valor y CTA principal.*
+
+### Continuación Landing
+![Landing 2](./screenshots/landing_2.png)
+*Sección de características, ventajas y testimonios.*
+
+### Sección Final del Landing
+![Landing 3](./screenshots/landing_3.png)
+*Footer con formulario de contacto e información de la empresa.*
+
+### Formulario de Solicitud
+![Formulario](./screenshots/formulario.png)
+*Interfaz para ingresar datos personales y monto del crédito.*
+
+### Calculadora en Tiempo Real
+![Calculadora](./screenshots/calculadora.png)
+*Simulador interactivo con desglose de costos, interés, comisión y IVA.*
+
+### Preguntas Frecuentes
+![FAQ](./screenshots/faq.png)
+*Sección de respuestas a preguntas comunes sobre el producto.*
+
+## �📊 Habilidades Demostradas
 
 - 💰 Fintech / Financial Calculations
 - 🧮 Precisión en cálculos monetarios

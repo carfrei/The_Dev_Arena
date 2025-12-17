@@ -1,4 +1,4 @@
-# 🧼 Imprendi Soap - LUXE ARTISAN
+# 🧼 Imprendi Soap
 
 **Tienda online premium de jabones artesanales de lujo.**
 
@@ -53,7 +53,21 @@ Imprendi_Soap/
 └── package.json
 ```
 
-## 📊 Habilidades Demostradas
+## � Demostración Visual
+
+### Landing Page Principal
+![Landing](./screenshots/landing.png)
+*Página principal con presentación de marca y catálogo de productos.*
+
+### Página de Productos
+![Productos](./screenshots/productos.png)
+*Galería de jabones artesanales con descripciones y precios en euros.*
+
+### Contacto / Footer
+![Contacto](./screenshots/contacto.png)
+*Sección de contacto con botón de WhatsApp y redes sociales.*
+
+## �📊 Habilidades Demostradas
 
 - 💼 E-commerce premium
 - 🎨 Diseño luxury brand

@@ -6,6 +6,10 @@
 
 Sitio web y plataforma para productora audiovisual. Showcase de proyectos, servicios de producción y gestión de contenidos multimedia.
 
+## ⏸️ Estado del Proyecto
+
+**Pausado** - Proyecto actualmente en pausa de desarrollo debido a restricciones presupuestarias. Se reanudará cuando se confirmen los compromisos de financiamiento del cliente.
+
 ## ✨ Características Principales
 
 - ✅ **Galería de Proyectos** - Portfolio audiovisual
@@ -24,7 +28,13 @@ Sitio web y plataforma para productora audiovisual. Showcase de proyectos, servi
 | **Galerías** | Lightbox / Gallery plugins |
 | **Hosting** | Static site o CMS |
 
-## 📊 Habilidades Demostradas
+## � Demostración Visual
+
+### Landing Page
+![Landing](./screenshots/landing.png)
+*Página principal con showcase de proyectos audiovisuales destacados.*
+
+## �📊 Habilidades Demostradas
 
 - 🎬 Diseño para industria creativa
 - 🎨 Integración multimedia

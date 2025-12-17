@@ -38,7 +38,17 @@ camilo_folio/
 └── assets/                 # Recursos adicionales
 ```
 
-## 📊 Habilidades Demostradas
+## � Demostración Visual
+
+### Landing Page
+![Landing](./screenshots/landing.png)
+*Página principal con presentación profesional y CTA (Call To Action).*
+
+### Footer
+![Footer](./screenshots/footer.png)
+*Sección de pie de página con contacto, redes sociales y navegación secundaria.*
+
+## �📊 Habilidades Demostradas
 
 - 🎨 Diseño UI/UX moderno
 - 📱 Desarrollo responsivo

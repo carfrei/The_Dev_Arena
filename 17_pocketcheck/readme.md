@@ -1,6 +1,6 @@
 # 💰 PocketCheck - Personal Finance Management
 
-**Plataforma completa full-stack de gestión financiera personal con web y app móvil.**
+**Proyecto Personal en Fase Alpha** 🚧 - Plataforma completa full-stack de gestión financiera personal con web y app móvil.
 
 ## 🎯 Descripción
 

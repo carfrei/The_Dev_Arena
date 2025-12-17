@@ -1,10 +1,38 @@
 # Mi Portfolio 👨‍💻
 
+**Full-Stack Developer | Blockchain | SaaS | E-commerce**
+
 Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 19 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+
+📊 **Estadísticas:**
+- **14 Proyectos Completados** ✅
+- **3 Proyectos en Desarrollo** 🚧
+- **2 Proyectos Pausados** ⏸️
+- **100K+ Líneas de Código**
+- **100% Responsivos** 📱
 
 ---
 
-## 📚 Proyectos
+## � Cómo Explorar los Proyectos
+
+Cada proyecto incluye:
+- ✅ **README Detallado** - Descripción, stack, arquitectura y desafíos técnicos
+- 📸 **Screenshots** - Visualización de la interfaz y funcionalidades (si disponible)
+- 🔗 **Links de Navegación** - Volver al portfolio desde cada proyecto
+- 📊 **Habilidades Demostradas** - Tecnologías y conceptos aplicados
+
+**Acceso rápido por categoría:**
+- **E-commerce:** [01](./01_the_nana_store/), [14](./14_imprendi_soap/)
+- **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/)
+- **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/)
+- **Blockchain:** [08](./08_echodao/)
+- **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/)
+- **Mobile:** [07](./07_drtarot/), [17](./17_pocketcheck/)
+- **EdTech:** [09](./09_edtech_multiidiomas/), [10](./10_edtech_srs_engine/)
+
+---
+
+## �📚 Proyectos
 
 ### 1. [The Nana Store](./01_the_nana_store/) 🛍️
 
@@ -146,30 +174,31 @@ Microservicio de Repetición Espaciada (SRS) para optimizar aprendizaje.
 
 ---
 
-### 11. [Flow](./11_flow/) 🌊
+### 11. [Flow](./11_flow/) 🚗
 
-Plataforma de gestión y visualización de flujos de procesos/datos.
+**Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber - Plataforma de transporte y mobilidad urbana en tiempo real.
 
-- **Stack:** React/Vue.js, D3.js/Vis.js, Node.js
-- ✅ Visualización gráfica de flujos
-- ✅ Gestor visual drag-and-drop
-- ✅ Análisis en tiempo real
-- ✅ Exportación de reportes
+- **Stack:** React/Vue.js, Node.js, WebSockets, Maps API, PostgreSQL + Redis
+- ✅ Arquitectura de matching en tiempo real
+- ✅ Sistema de geolocalización (Google Maps API)
+- ✅ Algoritmo de asignación inteligente
+- ✅ Tracking en vivo con WebSockets
+- ✅ Integración multi-pasarelas de pago
 
 [Ver detalles →](./11_flow/readme.md)
 
 ---
 
-### 12. [ServiceFlow - Barbería Pro](./12_service_flow/) 🏪
+### 12. [ServiceFlow](./12_service_flow/) 🍔
 
-SaaS profesional para gestión integral de barberías.
+**Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber Eats - Plataforma SaaS de delivery de comida y servicios.
 
-- **Stack:** React + Vite, Express.js, PostgreSQL, JWT + bcrypt
+- **Stack:** React + Vite, Express.js, PostgreSQL, JWT + bcrypt, WebSockets
 - ✅ 20+ endpoints RESTful
-- ✅ CRUD completo (Clientes, Servicios, Citas)
-- ✅ Dashboard con analytics
-- ✅ Dark/Light mode
-- ✅ Migraciones automáticas DB
+- ✅ CRUD completo (Restaurantes, Menús, Pedidos, Conductores)
+- ✅ Matching de conductores en tiempo real
+- ✅ Dashboard de Analytics y KPIs
+- ✅ Dark/Light mode integrado
 
 [Ver detalles →](./12_service_flow/readme.md)
 
@@ -203,15 +232,16 @@ Tienda online premium de jabones artesanales de lujo.
 
 ---
 
-### 15. [Menu de Media Noche](./15_menu_medianoche/) 🌙
+### 15. [Menu de Media Noche](./15_menu_medianoche/) 🌙🎮
 
-Aplicación de menú de restaurante para pedidos nocturnos.
+**Videojuego de Servicios** - Simulador de gestión de restaurante nocturno (Proyecto Personal en Desarrollo).
 
-- **Stack:** React/Vue.js, Node.js, MongoDB
-- ✅ Catálogo de menú dinámico
-- ✅ Sistema de pedidos intuitivo
-- ✅ Gestión de entregas
-- ✅ Integración de pagos
+- **Stack:** React/Vue.js, Node.js, MongoDB, Canvas/Three.js
+- 🚧 **En Desarrollo** - Core loops, economía y eventos implementados
+- ✅ Gestión de empleados y turnos
+- ✅ Sistema de órdenes dinámico
+- ✅ Control de inventario y recetas
+- ✅ Economía de juego (ingresos, gastos, utilidades)
 
 [Ver detalles →](./15_menu_medianoche/readme.md)
 
@@ -222,6 +252,7 @@ Aplicación de menú de restaurante para pedidos nocturnos.
 Plataforma de productora audiovisual y contenidos creativos.
 
 - **Stack:** HTML5, CSS3, JavaScript
+- ⏸️ **Pausado** - Proyecto en pausa por restricciones presupuestarias
 - ✅ Galería de proyectos multimedia
 - ✅ Showcases de videos/fotos
 - ✅ Catálogo de servicios
@@ -233,9 +264,10 @@ Plataforma de productora audiovisual y contenidos creativos.
 
 ### 17. [PocketCheck - Personal Finance Management](./17_pocketcheck/) 💰
 
-Plataforma full-stack de gestión financiera personal con web y app móvil.
+**Proyecto Personal en Fase Alpha** 🚧 - Plataforma full-stack de gestión financiera personal con web y app móvil.
 
 - **Stack:** Next.js 16 + React 19, TypeScript, React Native, MongoDB, NextAuth.js
+- 🚧 **Alpha** - Core features implementadas, testing en progreso
 - ✅ Múltiples cuentas (wallets, checking, savings)
 - ✅ Tracking de gastos con categorización
 - ✅ Gestión de presupuestos
@@ -247,15 +279,16 @@ Plataforma full-stack de gestión financiera personal con web y app móvil.
 
 ---
 
-### 18. [Rhythm Drift](./18_rhythm_drift/) 🎶
+### 18. [Rhythm Drift](./18_rhythm_drift/) �️
 
-Aplicación de música y ritmo con sincronización audio-visual.
+**Proyecto Personal en Fase Alpha** 🚧 - Juego de Carreras 16bits - Carrera arcade retro con música eurobeat dinámica.
 
-- **Stack:** Canvas/Three.js, Web Audio API, React/Vue.js
-- ✅ Visualizaciones reactivas a audio
-- ✅ Sincronización de ritmo
-- ✅ Efectos visuales
-- ✅ Interactividad en tiempo real
+- **Stack:** Canvas/Phaser.js, Web Audio API, React/Vue.js, Vite
+- ✅ Mecánicas de conducción y colisiones funcionales
+- ✅ Gráficos pixel art 16bits
+- ✅ Música eurobeat sincronizada con acción
+- ✅ Circuitos psicodélicos
+- ✅ Sistema de drifts y multiplicadores
 
 [Ver detalles →](./18_rhythm_drift/readme.md)
 
@@ -324,7 +357,6 @@ Juego Tetris clásico con estética Dracula tema oscuro.
 | **Gaming** | BLOODLINE, Tetris | Game loops, physics, canvas rendering |
 | **Mobile** | DrTarot, PocketCheck (React Native) | iOS/Android, sincronización |
 | **Design & UX** | Todos | Responsivo, accesibilidad, paletas coherentes |
-
 ---
 
 ## 📞 Contacto
@@ -334,6 +366,47 @@ Juego Tetris clásico con estética Dracula tema oscuro.
 
 ---
 
-**Última actualización:** Diciembre 2025
-**Total Proyectos:** 19
-**Líneas de Código:** 100K+
+## 🚀 Git Workflow
+
+Para contribuir o actualizar este portfolio:
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/carfrei/Portfolio.git
+cd Portfolio
+
+# 2. Crear rama para cambios
+git checkout -b feature/nueva-funcionalidad
+
+# 3. Hacer cambios locales
+# Editar archivos, agregar proyectos, etc.
+
+# 4. Verificar cambios
+git status
+
+# 5. Agregar cambios
+git add .
+
+# 6. Commit con mensaje descriptivo
+git commit -m "feat: agregar nuevo proyecto - [Nombre]"
+# Ejemplos:
+# git commit -m "docs: actualizar README con screenshots"
+# git commit -m "feat: agregar sección de contacto"
+# git commit -m "fix: corregir link a proyecto"
+
+# 7. Hacer push a rama
+git push origin feature/nueva-funcionalidad
+
+# 8. Crear Pull Request en GitHub
+```
+
+**Convención de commits:**
+- `feat:` - Nueva funcionalidad o proyecto
+- `fix:` - Correcciones
+- `docs:` - Cambios en documentación
+- `style:` - Cambios de formato
+- `refactor:` - Cambios de estructura
+- `perf:` - Mejoras de rendimiento
+
+---
+
