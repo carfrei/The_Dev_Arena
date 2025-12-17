@@ -84,7 +84,7 @@ Sistema de logs persistente para rastrear errores en producción y auditoria de 
 *Sistema de clasificación y estadísticas de compras.*
 
 ### Autenticación
-![Login](./screenshots/login.png)
+![Login](./screenshots/log.png)
 *Interfaz de inicio de sesión segura con validación.*
 
 ### Panel de Dashboard
