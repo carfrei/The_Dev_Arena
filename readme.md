@@ -2,10 +2,10 @@
 
 **Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
-Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 20 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 21 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **15 Proyectos Completados** ✅
+- **16 Proyectos Completados** ✅
 - **3 Proyectos en Desarrollo** 🚧
 - **2 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
@@ -24,7 +24,7 @@ Cada proyecto incluye:
 **Acceso rápido por categoría:**
 - **E-commerce:** [01](./01_the_nana_store/), [14](./14_imprendi_soap/)
 - **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/), [20](./20_pharmacy_management_system/)
-- **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/)
+- **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/), [21](./21_mr_bet/)
 - **Blockchain:** [08](./08_echodao/)
 - **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/)
 - **Mobile:** [07](./07_drtarot/), [17](./17_pocketcheck/)
@@ -328,6 +328,23 @@ Mockup funcional e interactivo de un sistema ERP completo para farmacias white-l
 
 ---
 
+### 21. [Mr Bet - Arbitraje Deportivo en Tiempo Real](./21_mr_bet/) 💰
+
+Mockup funcional e interactivo de una plataforma profesional de arbitraje deportivo (surebets).
+
+- **Stack:** HTML5, CSS3, JavaScript vanilla
+- 🔗 **[Demo en Vivo](https://mr-bet.onrender.com)**
+- 🎨 **Mockup demostrativo** basado en trabajos anteriores
+- ✅ Feed de surebets en tiempo real
+- ✅ Calculadora de arbitraje integrada
+- ✅ Filtros avanzados (deporte, casas de apuestas, beneficio)
+- ✅ Dashboard estilo Bloomberg/Binance
+- ✅ Tema oscuro premium con glassmorphism
+
+[Ver detalles →](./21_mr_bet/readme.md)
+
+---
+
 ## 📊 Resumen de Tecnologías
 
 ### Frontend
@@ -388,5 +405,5 @@ Mockup funcional e interactivo de un sistema ERP completo para farmacias white-l
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 20
+**Total Proyectos:** 21
 **Líneas de Código:** 100K+
